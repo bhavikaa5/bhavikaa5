@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, I'm Bhavika Bhojwani</h1>
+<h1 align="center">Hi, I'm Bhavika Bhojwani</h1>
 <h3 align="center">I'm a Computer Engineering student passionate about building meaningful tech solutions. I work across full-stack development, frontend design, and IoT projects, and love exploring new tools in AI, backend systems, and LLMs. From designing responsive websites and 3D interfaces to creating hardware-integrated automation systems, I enjoy solving real-world problems through code.</h3>
